@@ -1,0 +1,14 @@
+[2023-10-18 15:45:01] Started training with EPOCHS=4
+[2023-10-18 15:45:10] Loss: 0.0921, Accuracy: 97.40%
+[2023-10-18 15:48:14] Starting testing model with EPOCHS: 4 and ACCURACY: 97.53
+[2023-10-18 15:48:14] predected: 8 and it was 8
+[2023-10-18 15:48:14] predected: 3 and it was 9
+[2023-10-18 15:48:14] predected: 7 and it was 4
+[2023-10-18 15:48:14] predected: 5 and it was 5
+[2023-10-18 15:48:14] predected: 2 and it was 7
+[2023-10-18 15:48:14] predected: 5 and it was 6
+[2023-10-18 15:48:14] predected: 3 and it was 2
+[2023-10-18 15:48:14] predected: 3 and it was 3
+[2023-10-18 15:48:14] predected: 1 and it was 1
+[2023-10-18 15:48:14] predected: 0 and it was 0
+[2023-10-18 15:48:14] Accuracy: 50.0%
