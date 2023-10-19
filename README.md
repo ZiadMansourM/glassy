@@ -3,7 +3,7 @@
 
 # Handwritten Digit Recognition
 ```
-(.venv) ziadh@Ziads-MacBook-Air mnist % pip3 install tensorflow opencv-python numpy
+(.venv) ziadh@Ziads-MacBook-Air mnist % pip3 install tensorflow opencv-python numpy seaborn
 ```
 
 #### For Mac M1 users
