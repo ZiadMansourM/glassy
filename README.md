@@ -1,5 +1,5 @@
 # 👋 Welcome to glassy: Where Neural Magic Recognizes Your Digits!
-![DALL·E 2023-10-18 15 07 21](https://github.com/ZiadMansourM/glassy/assets/64917739/edc224ab-ad0f-4e42-89af-099cf1f01bf4)
+![Glassy by DALL·E](./assets/imgs/glassy.png)
 
 # Handwritten Digit Recognition
 ```
