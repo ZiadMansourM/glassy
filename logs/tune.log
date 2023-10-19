@@ -12,3 +12,42 @@
 [2023-10-18 15:48:14] predected: 1 and it was 1
 [2023-10-18 15:48:14] predected: 0 and it was 0
 [2023-10-18 15:48:14] Accuracy: 50.0%
+[2023-10-19 12:15:07] Starting testing model with EPOCHS: 4 and ACCURACY: 97.53
+[2023-10-19 12:15:07] predected: 8 and it was 8
+[2023-10-19 12:15:07] predected: 3 and it was 9
+[2023-10-19 12:15:07] predected: 7 and it was 4
+[2023-10-19 12:15:07] predected: 5 and it was 5
+[2023-10-19 12:15:07] predected: 2 and it was 7
+[2023-10-19 12:15:07] predected: 5 and it was 6
+[2023-10-19 12:15:07] predected: 3 and it was 2
+[2023-10-19 12:15:07] predected: 3 and it was 3
+[2023-10-19 12:15:07] predected: 1 and it was 1
+[2023-10-19 12:15:07] predected: 0 and it was 0
+[2023-10-19 12:15:07] Accuracy: 50.0%
+[2023-10-19 12:15:37] Starting testing model with EPOCHS: 4 and ACCURACY: 97.53
+[2023-10-19 12:15:37] predected: 3 and it was 8
+[2023-10-19 12:15:37] predected: 3 and it was 9
+[2023-10-19 12:15:37] predected: 3 and it was 4
+[2023-10-19 12:15:37] predected: 3 and it was 5
+[2023-10-19 12:15:37] predected: 3 and it was 7
+[2023-10-19 12:15:37] predected: 8 and it was 6
+[2023-10-19 12:15:37] predected: 3 and it was 2
+[2023-10-19 12:15:37] predected: 3 and it was 3
+[2023-10-19 12:15:37] predected: 3 and it was 1
+[2023-10-19 12:15:37] predected: 8 and it was 0
+[2023-10-19 12:15:37] Accuracy: 10.0%
+[2023-10-19 12:16:05] Starting testing model with EPOCHS: 4 and ACCURACY: 97.53
+[2023-10-19 12:16:05] predected: 8 and it was 8
+[2023-10-19 12:16:05] predected: 3 and it was 9
+[2023-10-19 12:16:05] predected: 7 and it was 4
+[2023-10-19 12:16:05] predected: 5 and it was 5
+[2023-10-19 12:16:05] predected: 2 and it was 7
+[2023-10-19 12:16:05] predected: 5 and it was 6
+[2023-10-19 12:16:05] predected: 3 and it was 2
+[2023-10-19 12:16:05] predected: 3 and it was 3
+[2023-10-19 12:16:05] predected: 1 and it was 1
+[2023-10-19 12:16:05] predected: 0 and it was 0
+[2023-10-19 12:16:05] Accuracy: 50.0%
+[2023-10-19 12:22:01] Started training with EPOCHS=4
+[2023-10-19 12:22:38] Started training with EPOCHS=4
+[2023-10-19 12:24:28] Started training with EPOCHS=4
