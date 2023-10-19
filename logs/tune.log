@@ -1,20 +1,22 @@
-[2023-10-19 13:49:39] Started training with EPOCHS=4
-[2023-10-19 13:49:49] Loss: 0.0895, Accuracy: 97.31%
-[2023-10-19 13:49:49] Finished training with EPOCHS=4
-[2023-10-19 13:49:49] Model saved to path '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/models/4/mnist-4-97.31.model'
-[2023-10-19 13:49:50] Confusion matrix saved to path '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/confusion-matrices/4/train/mnist-4-97.31.png'
-[2023-10-19 13:51:44] Starting testing model with EPOCHS: 4 and ACCURACY: 97.31
-[2023-10-19 13:51:44] predected: 8 and it was 8
-[2023-10-19 13:51:44] predected: 3 and it was 9
-[2023-10-19 13:51:44] predected: 7 and it was 4
-[2023-10-19 13:51:44] predected: 5 and it was 5
-[2023-10-19 13:51:44] predected: 2 and it was 7
-[2023-10-19 13:51:44] predected: 5 and it was 6
-[2023-10-19 13:51:44] predected: 3 and it was 2
-[2023-10-19 13:51:44] predected: 3 and it was 3
-[2023-10-19 13:51:44] predected: 1 and it was 1
-[2023-10-19 13:51:44] predected: 0 and it was 0
-[2023-10-19 13:51:44] Accuracy: 50.0%
-[2023-10-19 13:51:44] Number of faults: 5/10
-[2023-10-19 13:51:44] Number of correct: 5/10
-[2023-10-19 13:51:45] Confusion matrix saved to: '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/confusion-matrices/4/test/mnist-4-97.31.png'
+[2023-10-19 14:08:02] Training with EPOCHS=4
+[2023-10-19 14:08:12] Loss: 0.0852, Accuracy: 97.31%
+[2023-10-19 14:08:12] Finished training with EPOCHS=4
+[2023-10-19 14:08:12] Model saved to path '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/models/4/mnist-4-97.31.model'
+[2023-10-19 14:08:12] False predictions: 269/10,000
+[2023-10-19 14:08:12] True predictions: 9,731/10,000
+[2023-10-19 14:08:13] Confusion matrix saved to path '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/confusion-matrices/4/train/mnist-4-97.31.png'
+[2023-10-19 14:19:31] Testing model with EPOCHS: 4 and ACCURACY: 97.31
+[2023-10-19 14:19:31] predected: 3 and it was 8
+[2023-10-19 14:19:31] predected: 3 and it was 9
+[2023-10-19 14:19:31] predected: 9 and it was 4
+[2023-10-19 14:19:31] predected: 5 and it was 5
+[2023-10-19 14:19:31] predected: 8 and it was 7
+[2023-10-19 14:19:31] predected: 5 and it was 6
+[2023-10-19 14:19:31] predected: 3 and it was 2
+[2023-10-19 14:19:31] predected: 3 and it was 3
+[2023-10-19 14:19:31] predected: 1 and it was 1
+[2023-10-19 14:19:31] predected: 0 and it was 0
+[2023-10-19 14:19:31] Accuracy: 40.0%
+[2023-10-19 14:19:31] Number of faults: 6/10
+[2023-10-19 14:19:31] Number of correct: 4/10
+[2023-10-19 14:21:45] Confusion matrix saved to: '/Users/ziadh/Desktop/playgroud/image-processing/classifications/mnist/data/confusion-matrices/4/test/mnist-4-97.31.png'
